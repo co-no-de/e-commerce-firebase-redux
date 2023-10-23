@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "e-commerce-firebase-redux",
+    "name": "E-Lectronics",
     "slug": "e-commerce-firebase-redux",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
